@@ -1,0 +1,2 @@
+(this["webpackJsonpgoit-react-hw-01-components"]=this["webpackJsonpgoit-react-hw-01-components"]||[]).push([[0],{10:function(e,t,c){"use strict";c.r(t);var n=c(1),s=c.n(n),r=c(3),o=c.n(r),a=(c(8),c(0));var i=function(){return Object(a.jsx)("div",{className:"App",children:Object(a.jsx)("header",{className:"App-header"})})};o.a.render(Object(a.jsx)(s.a.StrictMode,{children:Object(a.jsx)(i,{})}),document.getElementById("root"))},8:function(e,t,c){}},[[10,1,2]]]);
+//# sourceMappingURL=main.e2eb9071.chunk.js.map
